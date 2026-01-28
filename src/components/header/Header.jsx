@@ -5,7 +5,7 @@ import logo from "../../assets/icones/logo.png"
 const Header = () => {
   return (
     <header>
-      <img src={logo} alt="Imagem de logo do site connect sendo representada por uma mão segurando um coração, simbolizando apoio" />
+      <img src={logo} alt="Imagem de logo do projeto connect sendo representada por uma mão segurando um coração, simbolizando apoio" />
 
       <nav>
         <Link to={"/doacao"}>Doação</Link>
